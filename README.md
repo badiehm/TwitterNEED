@@ -10,7 +10,7 @@ The dataset composed of four subsets of tweets; one public timeline subset and f
 
 Statistics about the two data sets are shown in the following table:
 
-                          1st Dataset     2nd Dataset                        
+                          1st Dataset     2nd Dataset                 
 # Tweets                   1603            162
 # Mentions                 1585            510
 # Wiki Entities            1233(78%)       483(94%)
