@@ -23,9 +23,6 @@ CITATION: If you want to use the 1st dataset for NEE task please cite reference[
 CONTACT: Mena B. Habib (m.b.habib AT ewi.utwente.nl).
 
 
-
-
-
 References
 ===========
 [1] Locke, B. and Martin, J. (2009). Named entity recognition: Adapting to microblogging. Senior Thesis, University
